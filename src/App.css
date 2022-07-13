@@ -1,0 +1,42 @@
+#tot{
+    margin-left: 420px;
+   margin-bottom: 50px;
+    margin-top: -260px;
+}
+#tok{
+    margin-left: 420px;
+}
+.comments{
+    width: 100% auto;
+    min-width: 85%;
+    margin: 0 5rem;
+  }
+  .comment{
+    max-width: 100%;
+    margin-top: 250px;
+  }
+img{
+    
+    width: 20rem;
+    height: 15rem;
+    background-color: transparent;
+  }
+ .titlered{
+color: red;
+ }
+ body{
+background-image: url(https://st2.depositphotos.com/1022214/7236/i/600/depositphotos_72364289-stock-photo-man-hands-patterned-with-the.jpg);
+}
+
+/*.mainVideo{
+  width: 70%;
+  background-color: blue;
+  height: 100vh;
+}*/
+#FCB{
+  margin: 5% 15% 5% 15%;
+}
+#dropdown-basic{
+  margin-top: 380px;
+  margin-left: -320px;
+}
